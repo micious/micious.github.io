@@ -1,6 +1,13 @@
-## Welcome 
+## Micious
 
 You can visit us at [https://www.micious.nl](https://www.micious.nl/).
+
+```bash
+
+cd /etc/httpd/
+cd /etc/nginx/
+
+```
 
 ### Markdown
 
